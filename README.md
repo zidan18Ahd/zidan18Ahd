@@ -9,10 +9,6 @@
 </picture>
 
 
-
-<h1 align="center">Hi 👋, I'm Zidan Ahmed</h1>
-<h3 align="center">AI Research Intern | Machine Learning Enthusiast | GreenTech Advocate</h3>
-
 ---
 
 ### 🚀 Tech Arsenal
