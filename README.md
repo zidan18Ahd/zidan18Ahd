@@ -50,19 +50,6 @@
 
 ---
 
-### 🌱 AI Institute of South Carolina – *AI Research Intern*
-📅 *Sep 2024 – Present*  
-🌐 *Remote (USA)*
-
-- Designed **energy-efficient LLM** architectures with KV caching and FLOP-aware optimization.
-- Developed eco-friendly training pipelines using **CodeCarbon** & **DeepSpeed**.
-- Built CO2 tracking dashboards to monitor compute resource utilization.
-- Conducted tradeoff analysis for **Green AI** benchmarks.
-
-🛠 *Key Tech:* KV caching, CodeCarbon, DeepSpeed, EnergyVis, GPU/TPU profiling
-
----
-
 ## 📌 Projects
 
 ### 📊 CSV File Analyzer [Python + MySQL]
