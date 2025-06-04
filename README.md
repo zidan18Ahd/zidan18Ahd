@@ -8,9 +8,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/zidan18Ahd/zidan18Ahd/output/github-snake.svg" />
 </picture>
 
-
----
-
 ### 🚀 Tech Arsenal
 
 #### 🧠 Languages
@@ -35,7 +32,7 @@
 #### 💡 Soft Skills
 ✨ Leadership &emsp; 🤝 Teamwork &emsp; ⏱ Time Management
 
----
+
 
 ## 🧪 Internship Experience
 
@@ -48,7 +45,6 @@
 - Applied **Isolation Forest** for structural anomaly detection.
 - Designed predictive models to engineer high-activity variants for **synthetic biology**.
 
----
 
 ### 🌱 Artificial Intelligence Institute of South Carolina – *AI Research Intern*
 📅 *Sep 2024 – Present*  
@@ -61,7 +57,6 @@
 
 🛠 *Key Tech:* KV caching, CodeCarbon, DeepSpeed, EnergyVis, GPU/TPU profiling
 
----
 
 ## 📌 Projects
 
@@ -71,7 +66,6 @@
 📈 Features: Trend analysis, interactive plots, MySQL-backed storage  
 🔗 [GitHub Repo](#)
 
----
 
 ### 💬 Tweet Sentiment Classifier [Bi-LSTM]
 > Classifies tweet sentiments: **Negative | Neutral | Positive** with 87% accuracy  
@@ -79,7 +73,6 @@
 📊 Deep Learning: Bi-directional LSTM for contextual understanding  
 🔗 [GitHub Repo](#)
 
----
 
 ## 🌐 Connect with Me
 
@@ -89,7 +82,6 @@
   <a href="https://github.com/zidan18Ahd"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
----
 
 ## 📊 GitHub Analytics
 
