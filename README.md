@@ -39,32 +39,52 @@
 
 ## 🧪 Internship Experience
 
+### 🔬 Artificial Intelligence Institute of South Carolina – *AI Research Intern*
+📅 *Sep 2024 – Present*  
+📍 *Remote, USA*
+
+- Built runtime-only LLM optimization system for **QuickSilver** (no weight modification required).  
+- Reduced inference cost via **token halting (L2 drift)**, **KV skipping**, and **semantic fusion**.  
+- Achieved **39.6% FLOP reduction** with <1% accuracy drop on GPT-2 & LLaMA-2.  
+- Wrote **clean, modular code** suitable for production AI inference stacks.  
+
+---
+
 ### 🔬 ZUMMIT INFOLABS – *Machine Learning Intern*
 📅 *Jul 2024 – Oct 2024*  
 📍 *India*
 
-- Conducted comparative analysis of 15 protein variants using enzymatic disharmony metrics.
-- Created multi-dimensional heatmaps & applied modified K-Means for structure-activity mapping.
-- Applied **Isolation Forest** for structural anomaly detection.
-- Designed predictive models to engineer high-activity variants for **synthetic biology**.
+- Conducted comparative analysis of 15 protein variants using enzymatic disharmony metrics.  
+- Created multi-dimensional heatmaps & applied modified K-Means for structure-activity mapping.  
+- Applied **Isolation Forest** for structural anomaly detection.  
+- Designed predictive models to engineer high-activity variants for **synthetic biology**.  
 
 ---
 
 ## 📌 Projects
 
-### 📊 CSV File Analyzer [Python + MySQL]
-> GUI tool to analyze CO2 emissions data (1990–2018) per country  
-🔧 Tech: *Python, Tkinter, Pandas, GeoPandas, MySQL*  
-📈 Features: Trend analysis, interactive plots, MySQL-backed storage  
-🔗 [GitHub Repo](#)
+### 🧠 SmallGPT – Minimal GPT Implementation  
+🔗 [GitHub Repo – SmallGPT](https://github.com/zidan18Ahd/Smallgpt/tree/main)   
+- Implemented a **90M parameter decoder-only GPT model** in PyTorch (inspired by nanoGPT).  
+- Trained on **TinyStories dataset (4.2B tokens)**.  
+- Achieved **train loss: 1.43, validation loss: 1.45** → strong learning on limited resources.  
+- Explored **scheduling, tokenization, and optimization** strategies for efficient small-scale LLM training.  
 
 ---
 
-### 💬 Tweet Sentiment Classifier [Bi-LSTM]
+### 📊 CSV File Analyzer [Python + MySQL]  
+> GUI tool to analyze CO2 emissions data (1990–2018) per country  
+🔧 Tech: *Python, Tkinter, Pandas, GeoPandas, MySQL*  
+📈 Features: Trend analysis, interactive plots, MySQL-backed storage  
+🔗 [GitHub Repo – CSV File Analyzer](https://github.com/zidan18Ahd/Analysis-Python-MySQL)  
+
+---
+
+### 💬 Tweet Sentiment Classifier [Bi-LSTM]  
 > Classifies tweet sentiments: **Negative | Neutral | Positive** with 87% accuracy  
 🔧 Tech: *Python, TensorFlow, Keras, Jupyter*  
 📊 Deep Learning: Bi-directional LSTM for contextual understanding  
-🔗 [GitHub Repo](#)
+🔗 [GitHub Repo](#)  
 
 ---
 
